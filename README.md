@@ -1,3 +1,8 @@
+# Assets
+Frontend Icons - [iiSu icons](https://github.com/iisu-network/iiSU/tree/main/iiSULauncher/assets/platforms)
+Homescreen Music - [iiSu Theme](https://www.youtube.com/watch?v=2tXiZQnPcfg)
+Wallpaper - /assets/acnh.gif
+
 # General
 
 ## Audio and Vibration
